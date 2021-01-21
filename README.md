@@ -1,8 +1,12 @@
 #참고한 사이트들
-1)가장 최근에 찾은 데이터셋 잘 정리해놓은 깃헙 :https://github.com/ZhaoJ9014/face.evoLVe.PyTorch
-2)한글로 얼굴인식 동향 정리해놓은 깃헙 : https://github.com/seriousran/face-recognition
-3)sruvey 한글 리뷰 : https://github.com/seriousran/face-recognition/blob/master/papers/Deep_Face_Recognition_A_Survey.md
-4)포크한 깃헙 : https://github.com/QuasarLight/Pytorch_Face_Recognition-       
+(1)가장 최근에 찾은 데이터셋 잘 정리해놓은 깃헙 :https://github.com/ZhaoJ9014/face.evoLVe.PyTorch
+
+(2)한글로 얼굴인식 동향 정리해놓은 깃헙 : https://github.com/seriousran/face-recognition
+
+(3)sruvey 한글 리뷰 : https://github.com/seriousran/face-recognition/blob/master/papers/Deep_Face_Recognition_A_Survey.md
+
+(4)포크한 깃헙 : https://github.com/QuasarLight/Pytorch_Face_Recognition-       
+
 현재 4를 기반으로 코드작성, 1번의 blp 사용하여 evaluation 하는 코드 추가
 
 # Pytorch_Face_Recognition  
