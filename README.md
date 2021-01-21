@@ -1,4 +1,5 @@
 #참고한 사이트들
+
 (1)가장 최근에 찾은 데이터셋 잘 정리해놓은 깃헙 :https://github.com/ZhaoJ9014/face.evoLVe.PyTorch
 
 (2)한글로 얼굴인식 동향 정리해놓은 깃헙 : https://github.com/seriousran/face-recognition
